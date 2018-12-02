@@ -13,4 +13,4 @@
 
 <i>1 de diciembre 2018, D-305. 21:44</i>
 
-<b><i>#Gracias pot todo :)</i></b>
+<b><i>#Gracias por todo :)</i></b>
