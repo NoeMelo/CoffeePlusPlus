@@ -11,6 +11,6 @@
 <p>Escribimos código hasta el último munuto antes de la expo. Si pasamos el curso, extrañaremos al profesor:'( .</p>
 
 
-<li>1 de diciembre 2018, D-305. 21:44</li>
+<i>1 de diciembre 2018, D-305. 21:44</i>
 
 #Gracias pot todo :)
