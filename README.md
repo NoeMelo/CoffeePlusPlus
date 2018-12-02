@@ -1,19 +1,16 @@
 # CoffeePlusPlus
 #Grupo Coffee++, Proyecto de Desarrollo de Aplicaciones Móviles.
 
-#Intgreantes:
-#Noé Melo Locumber
-#Tereza Yallico Arias
-#Abigail Huisacayna Cutipa
-#Zannie Maciel Carpio
+<h3>Intgreantes:</h3>
  <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Noé Melo Locumber</li>
+  <li>Tereza Yallico Arias</li>
+  <li>Abigail Huisacayna Cutipa</li>
+ <li>Zannie Maciel Carpio</li>
 </ul> 
-#Escribimos código hasta el último munuto antes de la expo. Si pasamos el curso, extrañaremos al profesor:'( .
+<p>Escribimos código hasta el último munuto antes de la expo. Si pasamos el curso, extrañaremos al profesor:'( .</p>
 
 
-#1 de diciembre 2018, D-305. 21:44
+<li>1 de diciembre 2018, D-305. 21:44</li>
 
 #Gracias pot todo :)
