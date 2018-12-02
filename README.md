@@ -6,7 +6,11 @@
 #Tereza Yallico Arias
 #Abigail Huisacayna Cutipa
 #Zannie Maciel Carpio
-
+ <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 #Escribimos código hasta el último munuto antes de la expo. Si pasamos el curso, extrañaremos al profesor:'( .
 
 
